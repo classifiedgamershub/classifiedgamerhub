@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @classifiedgamershub
 - 👀 I’m a software developer
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on remote jobs and mid level projects.
+- 💞️ I’m looking to collaborate on remote jobs and mid level flutter projects.
 - 📫 You can reach on discord via my channel 'Classified Gamers Hub' or @ xrisanaks.
 
 <!---
